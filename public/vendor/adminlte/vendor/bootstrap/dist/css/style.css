@@ -1,0 +1,31 @@
+ul{
+	margin: 0% 0% 0% -7%;
+}
+ul.list-caption li, ul.list-select li{
+	list-style: none;
+	margin: 0px 10px 0px 0px;
+	padding: 8px 12px;
+}
+
+ul.list-select{
+	margin: -29.5% 0% 0% 27%;	
+	width:  70%;
+	padding: 0px -40px 0px 0px;
+}
+ul.list-select li{
+	margin: 0px 10px 0px 0px;
+	padding: 8px 15px;
+
+}
+
+.form-penilaian-input{
+	width: 90%;
+    height: 30px;
+    padding: 4px 10px;
+    font-size: 14px;
+    line-height: 1;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+}
